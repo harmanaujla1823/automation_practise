@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="16" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-24T20:28:36 EDT" name="Suite" finished-at="2023-10-24T20:33:29 EDT" duration-ms="293165">
+    <groups>
+    </groups>
+    <test started-at="2023-10-24T20:28:36 EDT" name="Test" finished-at="2023-10-24T20:33:29 EDT" duration-ms="293165">
+      <class name="com.automation.framworks.practise.TestCases.RegisterTest">
+        <test-method is-config="true" signature="registerSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:31:39 EDT" name="registerSetup" finished-at="2023-10-24T20:31:53 EDT" duration-ms="14092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerSetup -->
+        <test-method signature="verifyRegisterWithMandatoryDetails()[pri:1, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:31:53 EDT" name="verifyRegisterWithMandatoryDetails" finished-at="2023-10-24T20:31:55 EDT" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterWithMandatoryDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:31:55 EDT" name="tearDown" finished-at="2023-10-24T20:31:59 EDT" duration-ms="3893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="registerSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:31:59 EDT" name="registerSetup" finished-at="2023-10-24T20:32:13 EDT" duration-ms="14640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerSetup -->
+        <test-method signature="verifyRegisterWithAllDetails()[pri:2, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:32:13 EDT" name="verifyRegisterWithAllDetails" finished-at="2023-10-24T20:32:15 EDT" duration-ms="1901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterWithAllDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:32:15 EDT" name="tearDown" finished-at="2023-10-24T20:32:18 EDT" duration-ms="2715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="registerSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:32:18 EDT" name="registerSetup" finished-at="2023-10-24T20:32:32 EDT" duration-ms="14253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerSetup -->
+        <test-method signature="verifyRegisterWithExistingEmail()[pri:3, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:32:32 EDT" name="verifyRegisterWithExistingEmail" finished-at="2023-10-24T20:32:33 EDT" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterWithExistingEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:32:33 EDT" name="tearDown" finished-at="2023-10-24T20:32:38 EDT" duration-ms="4409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="registerSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:32:38 EDT" name="registerSetup" finished-at="2023-10-24T20:32:57 EDT" duration-ms="19130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerSetup -->
+        <test-method signature="verifyRegisterWithNoDetails()[pri:4, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:32:57 EDT" name="verifyRegisterWithNoDetails" finished-at="2023-10-24T20:32:57 EDT" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterWithNoDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.RegisterTest@413d1baf]" started-at="2023-10-24T20:32:57 EDT" name="tearDown" finished-at="2023-10-24T20:33:00 EDT" duration-ms="2966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.framworks.practise.TestCases.RegisterTest -->
+      <class name="com.automation.framworks.practise.TestCases.SearchProductTest">
+        <test-method is-config="true" signature="searchProductSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1]" started-at="2023-10-24T20:33:00 EDT" name="searchProductSetup" finished-at="2023-10-24T20:33:11 EDT" duration-ms="10949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductSetup -->
+        <test-method signature="verifySearchWithValidProduct()[pri:1, instance:com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1]" started-at="2023-10-24T20:33:11 EDT" name="verifySearchWithValidProduct" finished-at="2023-10-24T20:33:12 EDT" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1]" started-at="2023-10-24T20:33:12 EDT" name="tearDown" finished-at="2023-10-24T20:33:16 EDT" duration-ms="3426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="searchProductSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1]" started-at="2023-10-24T20:33:16 EDT" name="searchProductSetup" finished-at="2023-10-24T20:33:26 EDT" duration-ms="10300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductSetup -->
+        <test-method signature="verifySearchWithInalidProduct()[pri:2, instance:com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1]" started-at="2023-10-24T20:33:26 EDT" name="verifySearchWithInalidProduct" finished-at="2023-10-24T20:33:27 EDT" duration-ms="722" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertFalse(Assert.java:79)
+at org.testng.Assert.assertFalse(Assert.java:89)
+at com.automation.framworks.practise.TestCases.SearchProductTest.verifySearchWithInalidProduct(SearchProductTest.java:53)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithInalidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1]" started-at="2023-10-24T20:33:27 EDT" name="tearDown" finished-at="2023-10-24T20:33:29 EDT" duration-ms="2763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="verifySearchWithNoProduct()[pri:3, instance:com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1]" started-at="2023-10-24T20:33:29 EDT" name="verifySearchWithNoProduct" finished-at="2023-10-24T20:33:29 EDT" depends-on-methods="com.automation.framworks.practise.TestCases.SearchProductTest.verifySearchWithInalidProduct" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method com.automation.framworks.practise.TestCases.SearchProductTest.verifySearchWithNoProduct() on instance com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1 depends on not successfully finished methods 
+[com.automation.framworks.practise.TestCases.SearchProductTest.verifySearchWithInalidProduct() on instance com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method com.automation.framworks.practise.TestCases.SearchProductTest.verifySearchWithNoProduct() on instance com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1 depends on not successfully finished methods 
+[com.automation.framworks.practise.TestCases.SearchProductTest.verifySearchWithInalidProduct() on instance com.automation.framworks.practise.TestCases.SearchProductTest@33bc72d1]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:156)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithNoProduct -->
+      </class> <!-- com.automation.framworks.practise.TestCases.SearchProductTest -->
+      <class name="com.automation.framworks.practise.TestCases.LoginTest">
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:28:37 EDT" name="loginSetup" finished-at="2023-10-24T20:28:51 EDT" duration-ms="13997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithValidLoginCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:28:51 EDT" name="verifyLoginWithValidLoginCredentials" data-provider="TN" finished-at="2023-10-24T20:28:53 EDT" duration-ms="1380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidLoginCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:28:53 EDT" name="tearDown" finished-at="2023-10-24T20:28:55 EDT" duration-ms="2242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:28:55 EDT" name="loginSetup" finished-at="2023-10-24T20:29:08 EDT" duration-ms="12579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithValidLoginCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:08 EDT" name="verifyLoginWithValidLoginCredentials" data-provider="TN" finished-at="2023-10-24T20:29:09 EDT" duration-ms="1534" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidLoginCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:09 EDT" name="tearDown" finished-at="2023-10-24T20:29:13 EDT" duration-ms="4249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:13 EDT" name="loginSetup" finished-at="2023-10-24T20:29:25 EDT" duration-ms="11740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithValidLoginCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:25 EDT" name="verifyLoginWithValidLoginCredentials" data-provider="TN" finished-at="2023-10-24T20:29:27 EDT" duration-ms="1465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidLoginCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:27 EDT" name="tearDown" finished-at="2023-10-24T20:29:29 EDT" duration-ms="2248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:29 EDT" name="loginSetup" finished-at="2023-10-24T20:29:41 EDT" duration-ms="11928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithValidLoginCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:41 EDT" name="verifyLoginWithValidLoginCredentials" data-provider="TN" finished-at="2023-10-24T20:29:42 EDT" duration-ms="1269" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidLoginCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:42 EDT" name="tearDown" finished-at="2023-10-24T20:29:44 EDT" duration-ms="2293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:44 EDT" name="loginSetup" finished-at="2023-10-24T20:29:58 EDT" duration-ms="13453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithValidLoginCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:58 EDT" name="verifyLoginWithValidLoginCredentials" data-provider="TN" finished-at="2023-10-24T20:29:59 EDT" duration-ms="1033" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidLoginCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:29:59 EDT" name="tearDown" finished-at="2023-10-24T20:30:02 EDT" duration-ms="2659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:02 EDT" name="loginSetup" finished-at="2023-10-24T20:30:13 EDT" duration-ms="11887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithValidLoginCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:13 EDT" name="verifyLoginWithValidLoginCredentials" data-provider="TN" finished-at="2023-10-24T20:30:14 EDT" duration-ms="1024" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidLoginCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:14 EDT" name="tearDown" finished-at="2023-10-24T20:30:17 EDT" duration-ms="2716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:17 EDT" name="loginSetup" finished-at="2023-10-24T20:30:29 EDT" duration-ms="12065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithValidLoginCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:29 EDT" name="verifyLoginWithValidLoginCredentials" data-provider="TN" finished-at="2023-10-24T20:30:30 EDT" duration-ms="1058" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidLoginCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:30 EDT" name="tearDown" finished-at="2023-10-24T20:30:34 EDT" duration-ms="3486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:34 EDT" name="loginSetup" finished-at="2023-10-24T20:30:48 EDT" duration-ms="14492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithValidEmailInvalidPassword()[pri:2, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:48 EDT" name="verifyLoginWithValidEmailInvalidPassword" finished-at="2023-10-24T20:30:49 EDT" duration-ms="963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidEmailInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:49 EDT" name="tearDown" finished-at="2023-10-24T20:30:52 EDT" duration-ms="2490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:30:52 EDT" name="loginSetup" finished-at="2023-10-24T20:31:04 EDT" duration-ms="12017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithInvalidEmailValidPassword()[pri:3, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:31:04 EDT" name="verifyLoginWithInvalidEmailValidPassword" finished-at="2023-10-24T20:31:04 EDT" duration-ms="744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidEmailValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:31:04 EDT" name="tearDown" finished-at="2023-10-24T20:31:07 EDT" duration-ms="2669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:31:07 EDT" name="loginSetup" finished-at="2023-10-24T20:31:20 EDT" duration-ms="13086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:4, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:31:20 EDT" name="verifyLoginWithInvalidCredentials" finished-at="2023-10-24T20:31:21 EDT" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:31:21 EDT" name="tearDown" finished-at="2023-10-24T20:31:24 EDT" duration-ms="2435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:31:24 EDT" name="loginSetup" finished-at="2023-10-24T20:31:36 EDT" duration-ms="12299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithNoCredentials()[pri:5, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:31:36 EDT" name="verifyLoginWithNoCredentials" finished-at="2023-10-24T20:31:36 EDT" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithNoCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.framworks.practise.TestCases.LoginTest@3e8c3cb]" started-at="2023-10-24T20:31:37 EDT" name="tearDown" finished-at="2023-10-24T20:31:39 EDT" duration-ms="2739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.framworks.practise.TestCases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
